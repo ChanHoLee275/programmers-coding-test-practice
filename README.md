@@ -57,6 +57,7 @@
 
 [N개의 최소공배수](level2/N개의-최소공배수.py)
 
+[JadenCase 문자열 만들기](level2/JadenCase-문자열-만들기.py)
 ### level 3
 
 ### level 4
